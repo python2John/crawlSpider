@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	.\dianping.py	/^from bs4 import BeautifulSoup$/;"	i
+RequestException	.\dianping.py	/^from requests.exceptions import RequestException$/;"	i
+change	.\dianping.py	/^def change(dic, text):$/;"	f
+changedict	.\dianping.py	/^    changedict = numbers(num_url, num_css_url)$/;"	v
+get_one_page	.\dianping.py	/^def get_one_page(url):$/;"	f
+num_css_url	.\dianping.py	/^    num_css_url = 'http:\/\/s3plus.meituan.net\/v1\/mss_0a06a471f9514fc79c981b5466f56b91\/svgtextcss\/554ebd27bc8118a34eb112aa67a54f04.css'$/;"	v
+num_url	.\dianping.py	/^    num_url = 'http:\/\/s3plus.meituan.net\/v1\/mss_0a06a471f9514fc79c981b5466f56b91\/svgtextcss\/a168a2721d3791f068a6174ba719bb58.svg'$/;"	v
+numbers	.\dianping.py	/^def numbers(num_url, num_css_url):$/;"	f
+re	.\dianping.py	/^import re$/;"	i
+requests	.\dianping.py	/^import requests$/;"	i
+score	.\dianping.py	/^def score(url, changedict):$/;"	f
+url	.\dianping.py	/^    url = 'http:\/\/www.dianping.com\/shop\/17213595'$/;"	v
