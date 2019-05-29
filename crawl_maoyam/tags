@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	.\main.py	/^from bs4 import BeautifulSoup$/;"	i
+RequestException	.\main.py	/^from requests.exceptions import RequestException$/;"	i
+etree	.\main.py	/^from lxml import etree$/;"	i
+get_one_page	.\main.py	/^def get_one_page(url):$/;"	f
+main	.\main.py	/^def main():$/;"	f
+parse_by_bs4	.\main.py	/^def parse_by_bs4(html): $/;"	f
+parse_by_pq	.\main.py	/^def parse_by_pq(html):$/;"	f
+parse_by_regex	.\main.py	/^def parse_by_regex(html):$/;"	f
+parse_by_xpath	.\main.py	/^def parse_by_xpath(html):$/;"	f
+pq	.\main.py	/^from pyquery import PyQuery as pq$/;"	i
+re	.\main.py	/^import re$/;"	i
+requests	.\main.py	/^import requests$/;"	i
