@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	.\main.py	/^from bs4 import BeautifulSoup$/;"	i
+By	.\main.py	/^from selenium.webdriver.common.by import By$/;"	i
+EC	.\main.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	i
+RequestException	.\main.py	/^from requests.exceptions import RequestException$/;"	i
+WebDriverWait	.\main.py	/^from selenium.webdriver.support.wait import WebDriverWait$/;"	i
+a1	.\main.py	/^    a1 = time.time()$/;"	v
+a2	.\main.py	/^    a2 = time.time()$/;"	v
+crawl_job592	.\main.py	/^def crawl_job592():  $/;"	f
+get_one_page	.\main.py	/^def get_one_page(url,  flag='text'):        # 'text' 与 'content' 的选择 $/;"	f
+get_single_job592_url	.\main.py	/^def get_single_job592_url(init_url='', page=1):          $/;"	f
+os	.\main.py	/^import os$/;"	i
+requests	.\main.py	/^import requests$/;"	i
+time	.\main.py	/^import time$/;"	i
+url_to_file	.\main.py	/^def url_to_file():$/;"	f
+urljoin	.\main.py	/^from urllib.parse import urljoin$/;"	i
+webdriver	.\main.py	/^from selenium import webdriver$/;"	i
